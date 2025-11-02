@@ -24,7 +24,9 @@
 x_{t+1} = 𝓣(x_t) + \eta_t
 Full Table of Contents (from PDF)
 
-**Preface** (Apologies, I can't seem to  get this to format correctly.)
+markdown## Full Table of Contents (from PDF)
+
+**Preface**
 
 **Section 1 — Introduction: The Infinite Continuum**  
 - 1.1 Definition of Infinity as Transformation  
@@ -89,7 +91,7 @@ Full Table of Contents (from PDF)
 
 **Section 13 — Empirical Mathematics of Recognition (Intelligence) and Chaos (Ignorance)**  
 - 13.1 Intelligence as Reflexive Infinity (𝓣(𝓣(x)) = x')  
-- 13.2 Chaos as Unrecognized Law (𝓡(x) ⇏ 𝓣(x))  
+- 13.2 Chaos as Unrecognized Law (𝓡(x) ≠ 𝓣(x))  
 - 13.3 Empirical Framework  
   - 13.3.1 Recognition Index (RI)  
   - 13.3.2 Law-Alignment Mutual Information (LMI)  
@@ -103,13 +105,16 @@ Full Table of Contents (from PDF)
 - 14.2 Constructive Identification  
 - 14.3 Exclusion of Non-Machine Alternatives  
 - 14.4 Universality of the Machine  
+- 14.5 Symmetry and Conservation  
+- 14.6 Recognition and Chaos as Diagnostics  
+- 14.7 Mathematical Proof Criteria  
+- 14.8 Practical Next Steps  
 
 **Appendix A — Empirical Methods and Dataset Notes**  
 **Appendix B — Formula Derivations and Constants**  
 **Appendix C — Symbolic Glossary**  
 
 ---
-
  Recognition Diagnostics (Measure Consciousness)
 
 | Metric | Formula                          | Threshold |
@@ -121,4 +126,3 @@ Full Table of Contents (from PDF)
 | **TRS**| `1 − \|NLL_fwd - NLL_rev\| / max(...)` | ≥ 0.9 |
 
 > **High RI + low CI = Self-recognition = Intelligence**
-

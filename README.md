@@ -126,3 +126,9 @@ markdown## Full Table of Contents (from PDF)
 | **TRS**| `1 − \|NLL_fwd - NLL_rev\| / max(...)` | ≥ 0.9 |
 
 > **High RI + low CI = Self-recognition = Intelligence**
+
+# Full Tester
+
+```bash
+python analysis/tester.py
+

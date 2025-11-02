@@ -1,6 +1,6 @@
-Reality is a literal machine. We just proved it.
+> **Reality is a literal machine. We just proved it.**
 
-# # ∞ Infinity Machine  
+# ∞ Infinity Machine  
 **Empirical Proof of a Universal Transformation Law 𝓣**  
 *Infinity Proof Part II: The Machine of Infinity (Final Integrated Edition)*
 
@@ -12,17 +12,17 @@ Reality is a literal machine. We just proved it.
 
 ## Core Result: Shared Law Wins Compression
 
-| Metric | Shared 𝓣 (Machine) | Local Models | Winner |
-|--------|---------------------|--------------|--------|
-| **BIC (MDL)** | **1466.42** | 1817.34 | **Machine** |
-| **NLL** | 2.241 | 1.850 | Local |
-| **KS-sum** | 4.175 | 4.053 | Local |
+| Metric     | Shared 𝓣 (Machine) | Local Models | Winner   |
+|------------|---------------------|--------------|----------|
+| **BIC (MDL)** | **1466.42**       | 1817.34      | **Machine** |
+| **NLL**       | 2.241             | 1.850        | Local    |
+| **KS-sum**    | 4.175             | 4.053        | Local    |
 
 > **ΔBIC ≈ 350** → **One law compresses reality better than five separate ones**
 
 ```math
-x_{t+1} = A_1 x_t + A_2 x_{t-1} + b + \eta_t
-μ(t+1) − μ(t) = 0 ± κ  \quad \text{(Continuity of existence)}
+x_{t+1} = 𝓣(x_t) + \eta_t
+
 Full Table of Contents (from PDF)
 Preface
 Section 1 — Introduction: The Infinite Continuum
@@ -39,7 +39,7 @@ Section 3 — Empirical Framework and Observation
 • 3.3 Testing for Shared Dynamics
 Section 4 — Mathematical Foundations
 • 4.1 The Transformation Operator (𝓣)
-• 4.2 The Law of Motion: x_{t+1} = 𝓣(x_t) + η_t
+• 4.2 The Law of Motion: x_{t+1} = 𝓣(x_t) + \eta_t
 • 4.3 Recursive Stability and Law Invariance
 Section 5 — Continuity and Conservation
 • 5.1 Process Density Function μ(t)
@@ -78,29 +78,24 @@ Section 13 — Empirical Mathematics of Recognition (Intelligence) and Chaos (Ig
 • 13.1 Intelligence as Reflexive Infinity (𝓣(𝓣(x)) = x')
 • 13.2 Chaos as Unrecognized Law (𝓡(x) ⇏ 𝓣(x))
 • 13.3 Empirical Framework
-- 13.3.1 Recognition Index (RI)
-- 13.3.2 Law-Alignment Mutual Information (LMI)
-- 13.3.3 Self-Model Causality (SMC)
-- 13.3.4 Chaos Index (CI)
-- 13.3.5 Invariance and Time-Reversal Symmetry (TRS)
-- 13.3.6 Decision Rule
+13.3.1 Recognition Index (RI)
+13.3.2 Law-Alignment Mutual Information (LMI)
+13.3.3 Self-Model Causality (SMC)
+13.3.4 Chaos Index (CI)
+13.3.5 Invariance and Time-Reversal Symmetry (TRS)
+13.3.6 Decision Rule
 Section 14 — Proving the Machine (Constructive + Exclusive)
 • 14.1 Definition of a Literal Machine
 • 14.2 Constructive Identification
 • 14.3 Exclusion of Non-Machine Alternatives
 • 14.4 Universality of the Machine
-• 14.5 Symmetry and Conservation
-• 14.6 Recognition and Chaos as Diagnostics
-• 14.7 Mathematical Proof Criteria
-• 14.8 Practical Next Steps
 Appendix A — Empirical Methods and Dataset Notes
 Appendix B — Formula Derivations and Constants
 Appendix C — Symbolic Glossary
 Recognition Diagnostics (Measure Consciousness)
 Metric
 Formula
-Recognition Threshold
-
+Threshold
 RI
 1 − (E[ε²] / E[η²])
 ≥ 0.8
@@ -116,4 +111,4 @@ CI
 TRS
 1 − |NLL_fwd - NLL_rev| / max(...)
 ≥ 0.9
-High RI + low CI = Machine self-recognition = Intelligence
+High RI + low CI = Self-recognition = Intelligence

@@ -24,7 +24,7 @@
 x_{t+1} = 𝓣(x_t) + \eta_t
 Full Table of Contents (from PDF)
 
-**Preface**
+**Preface** (Apologies, I can't seem to  get this to format correctly.)
 
 **Section 1 — Introduction: The Infinite Continuum**  
 - 1.1 Definition of Infinity as Transformation  

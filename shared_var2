@@ -5,7 +5,6 @@
 import numpy as np
 import pandas as pd
 from statsmodels.tsa.vector_ar.var_model import VAR
-from scipy.stats import kstest
 import os
 
 # === CONFIG ===
@@ -30,9 +29,9 @@ data = {env: load_env(env) for env in ENVIRONMENTS}
 shared_model = VAR(pd.concat(data.values()))
 shared_results = shared_model.fit(maxlags=LAG)
 shared_ll = shared_results.llf
-shared_k = len(shared_results.params) * len(ENVIRONMENTS)
+shared_k = len(shared_results.params) * len(ENVIRONMENTS)  # params × envs
 shared_n = sum(len(df) for df in data.values())
-shared_bic = -2 * shared_ll + np.log(shared_n) * shared_bic
+shared_bic = -2 * shared_ll + np.log(shared_n) * shared_k   # ← FIXED
 
 # === FIT LOCAL MODELS ===
 local_bics = []

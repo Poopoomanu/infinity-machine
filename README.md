@@ -1,6 +1,6 @@
 > **Reality is a literal machine. We just proved it.**
 
-# ∞ Infinity Machine  
+ ∞ Infinity Machine  
 **Empirical Proof of a Universal Transformation Law 𝓣**  
 *Infinity Proof Part II: The Machine of Infinity (Final Integrated Edition)*
 
@@ -22,7 +22,7 @@
 
 ```math
 x_{t+1} = 𝓣(x_t) + \eta_t
-## Full Table of Contents (from PDF)
+Full Table of Contents (from PDF)
 
 **Preface**
 
@@ -110,7 +110,7 @@ x_{t+1} = 𝓣(x_t) + \eta_t
 
 ---
 
-## Recognition Diagnostics (Measure Consciousness)
+ Recognition Diagnostics (Measure Consciousness)
 
 | Metric | Formula                          | Threshold |
 |--------|----------------------------------|-----------|

@@ -10,7 +10,7 @@
 
 ---
 
-## Core Result: Shared Law Wins Compression
+ Core Result: Shared Law Wins Compression
 
 | Metric     | Shared 𝓣 (Machine) | Local Models | Winner   |
 |------------|---------------------|--------------|----------|
